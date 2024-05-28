@@ -1,0 +1,1156 @@
+destination,origin,expected roaming need
+Kosovo,Albania,0
+Thailand,Russia,1
+Ukraine,Russia,0
+Türkiye,Russia,1
+France,Russia,1
+Morocco,France,1
+Germany,Russia,1
+United Arab Emirates,Russia,1
+United States,Canada,1
+United States,France,1
+Iran,United States,0
+Cuba,United States,0
+Iraq,United States,0
+United States,Russia,1
+Netherlands,Russia,1
+Aruba,United States,1
+Poland,Belarus,1
+Thailand,France,1
+Curaçao,Netherlands,1
+United Kingdom,Russia,1
+United Kingdom,United States,1
+Germany,United States,1
+China,Russia,1
+Albania,Kosovo,0
+Spain,Germany,0
+United States,Germany,1
+Spain,France,0
+France,Switzerland,0
+Russia,Belarus,0
+Belarus,Russia,0
+Sri Lanka,Russia,1
+Germany,Switzerland,0
+United Kingdom,France,1
+Indonesia,France,1
+Thailand,Kazakhstan,1
+Mexico,United States,1
+Thailand,Germany,1
+Georgia,Russia,1
+Mexico,Canada,1
+Türkiye,Kazakhstan,1
+Georgia,Armenia,1
+Austria,Germany,0
+France,United States,1
+Germany,France,0
+United States,United Kingdom,1
+Spain,United Kingdom,1
+Italy,Russia,1
+Switzerland,Germany,0
+Lithuania,Belarus,1
+Kosovo,Germany,1
+Romania,Moldova,0
+France,Germany,0
+Mexico,France,1
+Morocco,United Kingdom,1
+Netherlands,United States,1
+Switzerland,France,0
+Mauritius,France,1
+Poland,Ukraine,0
+United Kingdom,Germany,1
+Réunion,France,1
+Indonesia,Russia,1
+Italy,France,0
+Spain,Switzerland,0
+Canada,United States,1
+Vietnam,France,1
+Albania,Germany,1
+Germany,Ukraine,1
+Thailand,United Kingdom,1
+Brazil,France,1
+Italy,Switzerland,0
+Indonesia,Germany,1
+Canada,France,1
+France,United Kingdom,1
+Italy,Germany,0
+Russia,Kazakhstan,0
+United States,Switzerland,1
+Japan,France,1
+United Arab Emirates,Kazakhstan,1
+Netherlands,Germany,0
+Argentina,France,1
+Germany,Belarus,1
+India,Russia,1
+New Zealand,Netherlands,1
+United Kingdom,Switzerland,1
+Morocco,Germany,1
+Egypt,Russia,1
+Italy,Armenia,1
+Germany,Türkiye,1
+Germany,Kazakhstan,1
+France,Kazakhstan,1
+Sweden,Russia,1
+New Caledonia,France,1
+Curaçao,United States,1
+Armenia,Russia,1
+France,Canada,1
+Thailand,Switzerland,1
+Türkiye,Germany,1
+Spain,United States,1
+Poland,Russia,1
+United States,Netherlands,1
+South Africa,Germany,1
+Indonesia,Australia,1
+Guadeloupe,France,1
+Italy,United States,1
+United Kingdom,Canada,1
+Singapore,Russia,1
+China,Kazakhstan,1
+Spain,Russia,1
+Germany,Albania,1
+New Zealand,Australia,1
+Argentina,Chile,0
+Chile,France,1
+Martinique,France,1
+China,Mongolia,1
+Costa Rica,United States,1
+Cuba,Russia,1
+Kazakhstan,Russia,0
+Mexico,Germany,1
+Netherlands,France,0
+Portugal,France,0
+United Arab Emirates,France,1
+Vietnam,Russia,1
+New Zealand,France,1
+United Arab Emirates,Belarus,1
+Italy,Türkiye,1
+Colombia,United States,1
+Italy,Albania,0
+Morocco,Spain,1
+Russia,Ukraine,0
+Spain,Netherlands,0
+Thailand,United States,1
+United Kingdom,Australia,1
+Singapore,Germany,1
+Vietnam,Germany,1
+United Arab Emirates,Armenia,1
+Germany,United Kingdom,1
+Australia,France,1
+Japan,United States,1
+Singapore,France,1
+Argentina,Brazil,0
+Argentina,United States,1
+Costa Rica,France,1
+Netherlands,United Kingdom,1
+Chile,United States,1
+France,Armenia,1
+Colombia,France,1
+Hong Kong,Russia,1
+Belgium,France,0
+France,Türkiye,1
+Australia,United Kingdom,1
+French Guiana,France,1
+Portugal,Germany,0
+South Africa,Netherlands,1
+Costa Rica,Canada,1
+Cambodia,France,1
+United Arab Emirates,Germany,1
+India,France,1
+Poland,Germany,0
+Austria,Switzerland,0
+United States,Kazakhstan,1
+Puerto Rico,United States,1
+United States,Australia,1
+Türkiye,United States,1
+Türkiye,France,1
+Thailand,Netherlands,1
+France,Belarus,1
+China,Germany,1
+Laos,France,1
+Singapore,United Kingdom,1
+Azerbaijan,Russia,1
+Italy,Belarus,1
+Australia,Germany,1
+Brazil,Germany,1
+Italy,United Kingdom,1
+Netherlands,Kazakhstan,1
+Aruba,Canada,1
+Costa Rica,Germany,1
+Morocco,Netherlands,1
+China,France,1
+Portugal,United Kingdom,1
+Vietnam,Kazakhstan,1
+United Kingdom,Netherlands,1
+Cuba,France,1
+Germany,Armenia,1
+Vietnam,United Kingdom,1
+Georgia,Kazakhstan,1
+Japan,Australia,1
+Austria,Armenia,1
+Singapore,Australia,1
+India,United Kingdom,1
+China,United States,1
+Morocco,United States,1
+Netherlands,Türkiye,1
+United Arab Emirates,United States,1
+Thailand,Australia,1
+France,Italy,0
+Russia,United States,1
+Philippines,France,1
+Indonesia,Philippines,0
+Greece,Türkiye,1
+Germany,Netherlands,0
+Russia,Armenia,1
+Türkiye,United Kingdom,1
+Cuba,Canada,1
+French Polynesia,France,1
+Hungary,France,0
+Kosovo,Switzerland,1
+Morocco,Switzerland,1
+Netherlands,Switzerland,0
+Mexico,United Kingdom,1
+United Kingdom,Spain,1
+New Zealand,Germany,1
+Chile,Germany,1
+Spain,Canada,1
+Czechia,Germany,0
+United Kingdom,Belarus,1
+South Africa,France,1
+Indonesia,United States,1
+Argentina,Germany,1
+Sint Maarten,United States,1
+Curaçao,Canada,1
+France,Netherlands,0
+Germany,Austria,0
+United Arab Emirates,United Kingdom,1
+France,Belgium,0
+United States,Armenia,1
+Peru,France,1
+Uzbekistan,Russia,1
+Serbia,Türkiye,1
+United States,Türkiye,1
+United Kingdom,Kazakhstan,1
+Portugal,United States,1
+Russia,Turkmenistan,1
+Vietnam,United States,1
+Caribbean Netherlands,Netherlands,1
+Austria,Russia,1
+Finland,Russia,1
+Andorra,Spain,0
+Italy,Moldova,1
+Netherlands,Belarus,1
+New Zealand,United States,1
+Indonesia,Switzerland,1
+Philippines,Russia,1
+Hong Kong,France,1
+Cuba,Germany,1
+Vietnam,Australia,1
+Denmark,Russia,1
+Malaysia,Singapore,1
+Ecuador,United States,1
+Czechia,Ukraine,1
+Malaysia,Russia,1
+India,Germany,1
+Hungary,Germany,0
+France,Australia,1
+Senegal,France,1
+Sri Lanka,Germany,1
+Germany,Moldova,1
+Japan,Russia,1
+United Kingdom,Armenia,1
+Russia,Thailand,1
+Russia,Türkiye,1
+Russia,France,1
+France,Morocco,1
+Russia,Germany,1
+Russia,United Arab Emirates,1
+United States,Iran,0
+United States,Cuba,0
+United States,Iraq,0
+Russia,Netherlands,1
+United States,Aruba,1
+Belarus,Poland,1
+France,Thailand,1
+Netherlands,Curaçao,1
+Russia,United Kingdom,1
+Russia,China,1
+Germany,Spain,0
+France,Spain,0
+Russia,Sri Lanka,1
+France,Indonesia,1
+Kazakhstan,Thailand,1
+United States,Mexico,1
+Germany,Thailand,1
+Russia,Georgia,1
+Canada,Mexico,1
+Kazakhstan,Türkiye,1
+Armenia,Georgia,1
+Russia,Italy,1
+Belarus,Lithuania,1
+Germany,Kosovo,1
+Moldova,Romania,0
+France,Mexico,1
+United Kingdom,Morocco,1
+France,Mauritius,1
+Ukraine,Poland,0
+France,Réunion,1
+Russia,Indonesia,1
+Switzerland,Spain,0
+France,Vietnam,1
+Ukraine,Germany,1
+United Kingdom,Thailand,1
+France,Brazil,1
+Switzerland,Italy,0
+Germany,Indonesia,1
+Germany,Italy,0
+Switzerland,United States,1
+France,Japan,1
+Kazakhstan,United Arab Emirates,1
+France,Argentina,1
+Belarus,Germany,1
+Russia,India,1
+Netherlands,New Zealand,1
+Switzerland,United Kingdom,1
+Germany,Morocco,1
+Russia,Egypt,1
+Armenia,Italy,1
+Kazakhstan,Germany,1
+Kazakhstan,France,1
+Russia,Sweden,1
+France,New Caledonia,1
+United States,Curaçao,1
+Switzerland,Thailand,1
+United States,Spain,1
+Russia,Poland,1
+Germany,South Africa,1
+Australia,Indonesia,1
+France,Guadeloupe,1
+United States,Italy,1
+Canada,United Kingdom,1
+Russia,Singapore,1
+Kazakhstan,China,1
+Russia,Spain,1
+Australia,New Zealand,1
+Chile,Argentina,0
+France,Chile,1
+France,Martinique,1
+Mongolia,China,1
+United States,Costa Rica,1
+Russia,Cuba,1
+Germany,Mexico,1
+France,Portugal,0
+France,United Arab Emirates,1
+Russia,Vietnam,1
+France,New Zealand,1
+Belarus,United Arab Emirates,1
+Türkiye,Italy,1
+United States,Colombia,1
+Albania,Italy,0
+Spain,Morocco,1
+Netherlands,Spain,0
+United States,Thailand,1
+Germany,Singapore,1
+Germany,Vietnam,1
+Armenia,United Arab Emirates,1
+United States,Japan,1
+France,Singapore,1
+Brazil,Argentina,0
+United States,Argentina,1
+France,Costa Rica,1
+United States,Chile,1
+Armenia,France,1
+France,Colombia,1
+Russia,Hong Kong,1
+France,French Guiana,1
+Germany,Portugal,0
+Netherlands,South Africa,1
+Canada,Costa Rica,1
+France,Cambodia,1
+Germany,United Arab Emirates,1
+France,India,1
+Germany,Poland,0
+Switzerland,Austria,0
+Kazakhstan,United States,1
+United States,Puerto Rico,1
+Australia,United States,1
+Netherlands,Thailand,1
+Belarus,France,1
+Germany,China,1
+France,Laos,1
+United Kingdom,Singapore,1
+Russia,Azerbaijan,1
+Belarus,Italy,1
+Germany,Australia,1
+Germany,Brazil,1
+United Kingdom,Italy,1
+Kazakhstan,Netherlands,1
+Canada,Aruba,1
+Germany,Costa Rica,1
+Netherlands,Morocco,1
+France,China,1
+United Kingdom,Portugal,1
+Kazakhstan,Vietnam,1
+France,Cuba,1
+Armenia,Germany,1
+United Kingdom,Vietnam,1
+Kazakhstan,Georgia,1
+Australia,Japan,1
+Armenia,Austria,1
+Australia,Singapore,1
+United Kingdom,India,1
+United States,China,1
+United States,Morocco,1
+Türkiye,Netherlands,1
+United States,United Arab Emirates,1
+Australia,Thailand,1
+France,Philippines,1
+Philippines,Indonesia,0
+Türkiye,Greece,1
+United Kingdom,Türkiye,1
+Canada,Cuba,1
+France,French Polynesia,1
+France,Hungary,0
+Switzerland,Kosovo,1
+Switzerland,Morocco,1
+Switzerland,Netherlands,0
+United Kingdom,Mexico,1
+Germany,New Zealand,1
+Germany,Chile,1
+Canada,Spain,1
+Germany,Czechia,0
+Belarus,United Kingdom,1
+France,South Africa,1
+United States,Indonesia,1
+Germany,Argentina,1
+United States,Sint Maarten,1
+Canada,Curaçao,1
+United Kingdom,United Arab Emirates,1
+Armenia,United States,1
+France,Peru,1
+Russia,Uzbekistan,1
+Türkiye,Serbia,1
+Kazakhstan,United Kingdom,1
+United States,Portugal,1
+Turkmenistan,Russia,1
+United States,Vietnam,1
+Netherlands,Caribbean Netherlands,1
+Russia,Austria,1
+Russia,Finland,1
+Spain,Andorra,0
+Moldova,Italy,1
+Belarus,Netherlands,1
+United States,New Zealand,1
+Switzerland,Indonesia,1
+Russia,Philippines,1
+France,Hong Kong,1
+Germany,Cuba,1
+Australia,Vietnam,1
+Russia,Denmark,1
+Singapore,Malaysia,1
+United States,Ecuador,1
+Ukraine,Czechia,1
+Russia,Malaysia,1
+Germany,India,1
+Germany,Hungary,0
+France,Senegal,1
+Germany,Sri Lanka,1
+Moldova,Germany,1
+Russia,Japan,1
+Armenia,United Kingdom,1
+Austria,Austria,0
+Belgium,Austria,0
+Bulgaria,Austria,0
+Croatia,Austria,0
+Cyprus,Austria,0
+Czechia,Austria,0
+Denmark,Austria,0
+Estonia,Austria,0
+Finland,Austria,0
+France,Austria,0
+Greece,Austria,0
+Hungary,Austria,0
+Ireland,Austria,0
+Italy,Austria,0
+Latvia,Austria,0
+Lithuania,Austria,0
+Luxembourg,Austria,0
+Malta,Austria,0
+Netherlands,Austria,0
+Poland,Austria,0
+Portugal,Austria,0
+Romania,Austria,0
+Slovakia,Austria,0
+Slovenia,Austria,0
+Spain,Austria,0
+Sweden,Austria,0
+Austria,Belgium,0
+Belgium,Belgium,0
+Bulgaria,Belgium,0
+Croatia,Belgium,0
+Cyprus,Belgium,0
+Czechia,Belgium,0
+Denmark,Belgium,0
+Estonia,Belgium,0
+Finland,Belgium,0
+Germany,Belgium,0
+Greece,Belgium,0
+Hungary,Belgium,0
+Ireland,Belgium,0
+Italy,Belgium,0
+Latvia,Belgium,0
+Lithuania,Belgium,0
+Luxembourg,Belgium,0
+Malta,Belgium,0
+Netherlands,Belgium,0
+Poland,Belgium,0
+Portugal,Belgium,0
+Romania,Belgium,0
+Slovakia,Belgium,0
+Slovenia,Belgium,0
+Spain,Belgium,0
+Sweden,Belgium,0
+Austria,Bulgaria,0
+Belgium,Bulgaria,0
+Bulgaria,Bulgaria,0
+Croatia,Bulgaria,0
+Cyprus,Bulgaria,0
+Czechia,Bulgaria,0
+Denmark,Bulgaria,0
+Estonia,Bulgaria,0
+Finland,Bulgaria,0
+France,Bulgaria,0
+Germany,Bulgaria,0
+Greece,Bulgaria,0
+Hungary,Bulgaria,0
+Ireland,Bulgaria,0
+Italy,Bulgaria,0
+Latvia,Bulgaria,0
+Lithuania,Bulgaria,0
+Luxembourg,Bulgaria,0
+Malta,Bulgaria,0
+Netherlands,Bulgaria,0
+Poland,Bulgaria,0
+Portugal,Bulgaria,0
+Romania,Bulgaria,0
+Slovakia,Bulgaria,0
+Slovenia,Bulgaria,0
+Spain,Bulgaria,0
+Sweden,Bulgaria,0
+Austria,Croatia,0
+Belgium,Croatia,0
+Bulgaria,Croatia,0
+Croatia,Croatia,0
+Cyprus,Croatia,0
+Czechia,Croatia,0
+Denmark,Croatia,0
+Estonia,Croatia,0
+Finland,Croatia,0
+France,Croatia,0
+Germany,Croatia,0
+Greece,Croatia,0
+Hungary,Croatia,0
+Ireland,Croatia,0
+Italy,Croatia,0
+Latvia,Croatia,0
+Lithuania,Croatia,0
+Luxembourg,Croatia,0
+Malta,Croatia,0
+Netherlands,Croatia,0
+Poland,Croatia,0
+Portugal,Croatia,0
+Romania,Croatia,0
+Slovakia,Croatia,0
+Slovenia,Croatia,0
+Spain,Croatia,0
+Sweden,Croatia,0
+Austria,Cyprus,0
+Belgium,Cyprus,0
+Bulgaria,Cyprus,0
+Croatia,Cyprus,0
+Cyprus,Cyprus,0
+Czechia,Cyprus,0
+Denmark,Cyprus,0
+Estonia,Cyprus,0
+Finland,Cyprus,0
+France,Cyprus,0
+Germany,Cyprus,0
+Greece,Cyprus,0
+Hungary,Cyprus,0
+Ireland,Cyprus,0
+Italy,Cyprus,0
+Latvia,Cyprus,0
+Lithuania,Cyprus,0
+Luxembourg,Cyprus,0
+Malta,Cyprus,0
+Netherlands,Cyprus,0
+Poland,Cyprus,0
+Portugal,Cyprus,0
+Romania,Cyprus,0
+Slovakia,Cyprus,0
+Slovenia,Cyprus,0
+Spain,Cyprus,0
+Sweden,Cyprus,0
+Austria,Czechia,0
+Belgium,Czechia,0
+Bulgaria,Czechia,0
+Croatia,Czechia,0
+Cyprus,Czechia,0
+Czechia,Czechia,0
+Denmark,Czechia,0
+Estonia,Czechia,0
+Finland,Czechia,0
+France,Czechia,0
+Greece,Czechia,0
+Hungary,Czechia,0
+Ireland,Czechia,0
+Italy,Czechia,0
+Latvia,Czechia,0
+Lithuania,Czechia,0
+Luxembourg,Czechia,0
+Malta,Czechia,0
+Netherlands,Czechia,0
+Poland,Czechia,0
+Portugal,Czechia,0
+Romania,Czechia,0
+Slovakia,Czechia,0
+Slovenia,Czechia,0
+Spain,Czechia,0
+Sweden,Czechia,0
+Austria,Denmark,0
+Belgium,Denmark,0
+Bulgaria,Denmark,0
+Croatia,Denmark,0
+Cyprus,Denmark,0
+Czechia,Denmark,0
+Denmark,Denmark,0
+Estonia,Denmark,0
+Finland,Denmark,0
+France,Denmark,0
+Germany,Denmark,0
+Greece,Denmark,0
+Hungary,Denmark,0
+Ireland,Denmark,0
+Italy,Denmark,0
+Latvia,Denmark,0
+Lithuania,Denmark,0
+Luxembourg,Denmark,0
+Malta,Denmark,0
+Netherlands,Denmark,0
+Poland,Denmark,0
+Portugal,Denmark,0
+Romania,Denmark,0
+Slovakia,Denmark,0
+Slovenia,Denmark,0
+Spain,Denmark,0
+Sweden,Denmark,0
+Austria,Estonia,0
+Belgium,Estonia,0
+Bulgaria,Estonia,0
+Croatia,Estonia,0
+Cyprus,Estonia,0
+Czechia,Estonia,0
+Denmark,Estonia,0
+Estonia,Estonia,0
+Finland,Estonia,0
+France,Estonia,0
+Germany,Estonia,0
+Greece,Estonia,0
+Hungary,Estonia,0
+Ireland,Estonia,0
+Italy,Estonia,0
+Latvia,Estonia,0
+Lithuania,Estonia,0
+Luxembourg,Estonia,0
+Malta,Estonia,0
+Netherlands,Estonia,0
+Poland,Estonia,0
+Portugal,Estonia,0
+Romania,Estonia,0
+Slovakia,Estonia,0
+Slovenia,Estonia,0
+Spain,Estonia,0
+Sweden,Estonia,0
+Austria,Finland,0
+Belgium,Finland,0
+Bulgaria,Finland,0
+Croatia,Finland,0
+Cyprus,Finland,0
+Czechia,Finland,0
+Denmark,Finland,0
+Estonia,Finland,0
+Finland,Finland,0
+France,Finland,0
+Germany,Finland,0
+Greece,Finland,0
+Hungary,Finland,0
+Ireland,Finland,0
+Italy,Finland,0
+Latvia,Finland,0
+Lithuania,Finland,0
+Luxembourg,Finland,0
+Malta,Finland,0
+Netherlands,Finland,0
+Poland,Finland,0
+Portugal,Finland,0
+Romania,Finland,0
+Slovakia,Finland,0
+Slovenia,Finland,0
+Spain,Finland,0
+Sweden,Finland,0
+Austria,France,0
+Bulgaria,France,0
+Croatia,France,0
+Cyprus,France,0
+Czechia,France,0
+Denmark,France,0
+Estonia,France,0
+Finland,France,0
+France,France,0
+Greece,France,0
+Ireland,France,0
+Latvia,France,0
+Lithuania,France,0
+Luxembourg,France,0
+Malta,France,0
+Poland,France,0
+Romania,France,0
+Slovakia,France,0
+Slovenia,France,0
+Sweden,France,0
+Belgium,Germany,0
+Bulgaria,Germany,0
+Croatia,Germany,0
+Cyprus,Germany,0
+Denmark,Germany,0
+Estonia,Germany,0
+Finland,Germany,0
+Germany,Germany,0
+Greece,Germany,0
+Ireland,Germany,0
+Latvia,Germany,0
+Lithuania,Germany,0
+Luxembourg,Germany,0
+Malta,Germany,0
+Romania,Germany,0
+Slovakia,Germany,0
+Slovenia,Germany,0
+Sweden,Germany,0
+Austria,Greece,0
+Belgium,Greece,0
+Bulgaria,Greece,0
+Croatia,Greece,0
+Cyprus,Greece,0
+Czechia,Greece,0
+Denmark,Greece,0
+Estonia,Greece,0
+Finland,Greece,0
+France,Greece,0
+Germany,Greece,0
+Greece,Greece,0
+Hungary,Greece,0
+Ireland,Greece,0
+Italy,Greece,0
+Latvia,Greece,0
+Lithuania,Greece,0
+Luxembourg,Greece,0
+Malta,Greece,0
+Netherlands,Greece,0
+Poland,Greece,0
+Portugal,Greece,0
+Romania,Greece,0
+Slovakia,Greece,0
+Slovenia,Greece,0
+Spain,Greece,0
+Sweden,Greece,0
+Austria,Hungary,0
+Belgium,Hungary,0
+Bulgaria,Hungary,0
+Croatia,Hungary,0
+Cyprus,Hungary,0
+Czechia,Hungary,0
+Denmark,Hungary,0
+Estonia,Hungary,0
+Finland,Hungary,0
+Greece,Hungary,0
+Hungary,Hungary,0
+Ireland,Hungary,0
+Italy,Hungary,0
+Latvia,Hungary,0
+Lithuania,Hungary,0
+Luxembourg,Hungary,0
+Malta,Hungary,0
+Netherlands,Hungary,0
+Poland,Hungary,0
+Portugal,Hungary,0
+Romania,Hungary,0
+Slovakia,Hungary,0
+Slovenia,Hungary,0
+Spain,Hungary,0
+Sweden,Hungary,0
+Austria,Ireland,0
+Belgium,Ireland,0
+Bulgaria,Ireland,0
+Croatia,Ireland,0
+Cyprus,Ireland,0
+Czechia,Ireland,0
+Denmark,Ireland,0
+Estonia,Ireland,0
+Finland,Ireland,0
+France,Ireland,0
+Germany,Ireland,0
+Greece,Ireland,0
+Hungary,Ireland,0
+Ireland,Ireland,0
+Italy,Ireland,0
+Latvia,Ireland,0
+Lithuania,Ireland,0
+Luxembourg,Ireland,0
+Malta,Ireland,0
+Netherlands,Ireland,0
+Poland,Ireland,0
+Portugal,Ireland,0
+Romania,Ireland,0
+Slovakia,Ireland,0
+Slovenia,Ireland,0
+Spain,Ireland,0
+Sweden,Ireland,0
+Austria,Italy,0
+Belgium,Italy,0
+Bulgaria,Italy,0
+Croatia,Italy,0
+Cyprus,Italy,0
+Czechia,Italy,0
+Denmark,Italy,0
+Estonia,Italy,0
+Finland,Italy,0
+Greece,Italy,0
+Hungary,Italy,0
+Ireland,Italy,0
+Italy,Italy,0
+Latvia,Italy,0
+Lithuania,Italy,0
+Luxembourg,Italy,0
+Malta,Italy,0
+Netherlands,Italy,0
+Poland,Italy,0
+Portugal,Italy,0
+Romania,Italy,0
+Slovakia,Italy,0
+Slovenia,Italy,0
+Spain,Italy,0
+Sweden,Italy,0
+Austria,Latvia,0
+Belgium,Latvia,0
+Bulgaria,Latvia,0
+Croatia,Latvia,0
+Cyprus,Latvia,0
+Czechia,Latvia,0
+Denmark,Latvia,0
+Estonia,Latvia,0
+Finland,Latvia,0
+France,Latvia,0
+Germany,Latvia,0
+Greece,Latvia,0
+Hungary,Latvia,0
+Ireland,Latvia,0
+Italy,Latvia,0
+Latvia,Latvia,0
+Lithuania,Latvia,0
+Luxembourg,Latvia,0
+Malta,Latvia,0
+Netherlands,Latvia,0
+Poland,Latvia,0
+Portugal,Latvia,0
+Romania,Latvia,0
+Slovakia,Latvia,0
+Slovenia,Latvia,0
+Spain,Latvia,0
+Sweden,Latvia,0
+Austria,Lithuania,0
+Belgium,Lithuania,0
+Bulgaria,Lithuania,0
+Croatia,Lithuania,0
+Cyprus,Lithuania,0
+Czechia,Lithuania,0
+Denmark,Lithuania,0
+Estonia,Lithuania,0
+Finland,Lithuania,0
+France,Lithuania,0
+Germany,Lithuania,0
+Greece,Lithuania,0
+Hungary,Lithuania,0
+Ireland,Lithuania,0
+Italy,Lithuania,0
+Latvia,Lithuania,0
+Lithuania,Lithuania,0
+Luxembourg,Lithuania,0
+Malta,Lithuania,0
+Netherlands,Lithuania,0
+Poland,Lithuania,0
+Portugal,Lithuania,0
+Romania,Lithuania,0
+Slovakia,Lithuania,0
+Slovenia,Lithuania,0
+Spain,Lithuania,0
+Sweden,Lithuania,0
+Austria,Luxembourg,0
+Belgium,Luxembourg,0
+Bulgaria,Luxembourg,0
+Croatia,Luxembourg,0
+Cyprus,Luxembourg,0
+Czechia,Luxembourg,0
+Denmark,Luxembourg,0
+Estonia,Luxembourg,0
+Finland,Luxembourg,0
+France,Luxembourg,0
+Germany,Luxembourg,0
+Greece,Luxembourg,0
+Hungary,Luxembourg,0
+Ireland,Luxembourg,0
+Italy,Luxembourg,0
+Latvia,Luxembourg,0
+Lithuania,Luxembourg,0
+Luxembourg,Luxembourg,0
+Malta,Luxembourg,0
+Netherlands,Luxembourg,0
+Poland,Luxembourg,0
+Portugal,Luxembourg,0
+Romania,Luxembourg,0
+Slovakia,Luxembourg,0
+Slovenia,Luxembourg,0
+Spain,Luxembourg,0
+Sweden,Luxembourg,0
+Austria,Malta,0
+Belgium,Malta,0
+Bulgaria,Malta,0
+Croatia,Malta,0
+Cyprus,Malta,0
+Czechia,Malta,0
+Denmark,Malta,0
+Estonia,Malta,0
+Finland,Malta,0
+France,Malta,0
+Germany,Malta,0
+Greece,Malta,0
+Hungary,Malta,0
+Ireland,Malta,0
+Italy,Malta,0
+Latvia,Malta,0
+Lithuania,Malta,0
+Luxembourg,Malta,0
+Malta,Malta,0
+Netherlands,Malta,0
+Poland,Malta,0
+Portugal,Malta,0
+Romania,Malta,0
+Slovakia,Malta,0
+Slovenia,Malta,0
+Spain,Malta,0
+Sweden,Malta,0
+Austria,Netherlands,0
+Belgium,Netherlands,0
+Bulgaria,Netherlands,0
+Croatia,Netherlands,0
+Cyprus,Netherlands,0
+Czechia,Netherlands,0
+Denmark,Netherlands,0
+Estonia,Netherlands,0
+Finland,Netherlands,0
+Greece,Netherlands,0
+Hungary,Netherlands,0
+Ireland,Netherlands,0
+Italy,Netherlands,0
+Latvia,Netherlands,0
+Lithuania,Netherlands,0
+Luxembourg,Netherlands,0
+Malta,Netherlands,0
+Netherlands,Netherlands,0
+Poland,Netherlands,0
+Portugal,Netherlands,0
+Romania,Netherlands,0
+Slovakia,Netherlands,0
+Slovenia,Netherlands,0
+Sweden,Netherlands,0
+Austria,Poland,0
+Belgium,Poland,0
+Bulgaria,Poland,0
+Croatia,Poland,0
+Cyprus,Poland,0
+Czechia,Poland,0
+Denmark,Poland,0
+Estonia,Poland,0
+Finland,Poland,0
+France,Poland,0
+Greece,Poland,0
+Hungary,Poland,0
+Ireland,Poland,0
+Italy,Poland,0
+Latvia,Poland,0
+Lithuania,Poland,0
+Luxembourg,Poland,0
+Malta,Poland,0
+Netherlands,Poland,0
+Poland,Poland,0
+Portugal,Poland,0
+Romania,Poland,0
+Slovakia,Poland,0
+Slovenia,Poland,0
+Spain,Poland,0
+Sweden,Poland,0
+Austria,Portugal,0
+Belgium,Portugal,0
+Bulgaria,Portugal,0
+Croatia,Portugal,0
+Cyprus,Portugal,0
+Czechia,Portugal,0
+Denmark,Portugal,0
+Estonia,Portugal,0
+Finland,Portugal,0
+Greece,Portugal,0
+Hungary,Portugal,0
+Ireland,Portugal,0
+Italy,Portugal,0
+Latvia,Portugal,0
+Lithuania,Portugal,0
+Luxembourg,Portugal,0
+Malta,Portugal,0
+Netherlands,Portugal,0
+Poland,Portugal,0
+Portugal,Portugal,0
+Romania,Portugal,0
+Slovakia,Portugal,0
+Slovenia,Portugal,0
+Spain,Portugal,0
+Sweden,Portugal,0
+Austria,Romania,0
+Belgium,Romania,0
+Bulgaria,Romania,0
+Croatia,Romania,0
+Cyprus,Romania,0
+Czechia,Romania,0
+Denmark,Romania,0
+Estonia,Romania,0
+Finland,Romania,0
+France,Romania,0
+Germany,Romania,0
+Greece,Romania,0
+Hungary,Romania,0
+Ireland,Romania,0
+Italy,Romania,0
+Latvia,Romania,0
+Lithuania,Romania,0
+Luxembourg,Romania,0
+Malta,Romania,0
+Netherlands,Romania,0
+Poland,Romania,0
+Portugal,Romania,0
+Romania,Romania,0
+Slovakia,Romania,0
+Slovenia,Romania,0
+Spain,Romania,0
+Sweden,Romania,0
+Austria,Slovakia,0
+Belgium,Slovakia,0
+Bulgaria,Slovakia,0
+Croatia,Slovakia,0
+Cyprus,Slovakia,0
+Czechia,Slovakia,0
+Denmark,Slovakia,0
+Estonia,Slovakia,0
+Finland,Slovakia,0
+France,Slovakia,0
+Germany,Slovakia,0
+Greece,Slovakia,0
+Hungary,Slovakia,0
+Ireland,Slovakia,0
+Italy,Slovakia,0
+Latvia,Slovakia,0
+Lithuania,Slovakia,0
+Luxembourg,Slovakia,0
+Malta,Slovakia,0
+Netherlands,Slovakia,0
+Poland,Slovakia,0
+Portugal,Slovakia,0
+Romania,Slovakia,0
+Slovakia,Slovakia,0
+Slovenia,Slovakia,0
+Spain,Slovakia,0
+Sweden,Slovakia,0
+Austria,Slovenia,0
+Belgium,Slovenia,0
+Bulgaria,Slovenia,0
+Croatia,Slovenia,0
+Cyprus,Slovenia,0
+Czechia,Slovenia,0
+Denmark,Slovenia,0
+Estonia,Slovenia,0
+Finland,Slovenia,0
+France,Slovenia,0
+Germany,Slovenia,0
+Greece,Slovenia,0
+Hungary,Slovenia,0
+Ireland,Slovenia,0
+Italy,Slovenia,0
+Latvia,Slovenia,0
+Lithuania,Slovenia,0
+Luxembourg,Slovenia,0
+Malta,Slovenia,0
+Netherlands,Slovenia,0
+Poland,Slovenia,0
+Portugal,Slovenia,0
+Romania,Slovenia,0
+Slovakia,Slovenia,0
+Slovenia,Slovenia,0
+Spain,Slovenia,0
+Sweden,Slovenia,0
+Austria,Spain,0
+Belgium,Spain,0
+Bulgaria,Spain,0
+Croatia,Spain,0
+Cyprus,Spain,0
+Czechia,Spain,0
+Denmark,Spain,0
+Estonia,Spain,0
+Finland,Spain,0
+Greece,Spain,0
+Hungary,Spain,0
+Ireland,Spain,0
+Italy,Spain,0
+Latvia,Spain,0
+Lithuania,Spain,0
+Luxembourg,Spain,0
+Malta,Spain,0
+Poland,Spain,0
+Portugal,Spain,0
+Romania,Spain,0
+Slovakia,Spain,0
+Slovenia,Spain,0
+Spain,Spain,0
+Sweden,Spain,0
+Austria,Sweden,0
+Belgium,Sweden,0
+Bulgaria,Sweden,0
+Croatia,Sweden,0
+Cyprus,Sweden,0
+Czechia,Sweden,0
+Denmark,Sweden,0
+Estonia,Sweden,0
+Finland,Sweden,0
+France,Sweden,0
+Germany,Sweden,0
+Greece,Sweden,0
+Hungary,Sweden,0
+Ireland,Sweden,0
+Italy,Sweden,0
+Latvia,Sweden,0
+Lithuania,Sweden,0
+Luxembourg,Sweden,0
+Malta,Sweden,0
+Netherlands,Sweden,0
+Poland,Sweden,0
+Portugal,Sweden,0
+Romania,Sweden,0
+Slovakia,Sweden,0
+Slovenia,Sweden,0
+Spain,Sweden,0
+Sweden,Sweden,0

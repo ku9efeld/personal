@@ -1,0 +1,109 @@
+country code,country,reg,code,cogs per gb
+DZA,Algeria,Africa,DZAWT,5.31
+AND,Andorra,Europe,ANDMA,22.41
+ATG,Antigua & Barbuda,Americas,ATGCW,24.46
+ARG,Argentina,Americas,ARGTM,14.32
+ARM,Armenia,Asia,ARM05,6.4399999999999995
+ABW,Aruba,Americas,ABWSE,15.35
+AUS,Australia,Oceania,AUSOP,4.49
+AUT,Austria,Europe,AUTCA,2.85
+AZE,Azerbaijan,Asia,AZEBC,15.86
+BHS,Bahamas,Americas,BHSBH,18.110000000000003
+BHR,Bahrain,Asia,BHRMV,11.76
+BGD,Bangladesh,Asia,BGDGP,9.1
+BLR,Belarus,Europe,BLR02,10.94
+BEL,Belgium,Europe,BELKO,2.44
+BMU,Bermuda,Americas,BMUK9,43.809999999999995
+BOL,Bolivia,Americas,BOLNT,14.32
+BIH,Bosnia & Herzegovina,Europe,BIHPT,8.18
+BRA,Brazil,Americas,BRAV1,14.32
+VGB,British Virgin Islands,Americas,VGBCW,25.59
+BGR,Bulgaria,Europe,BGR01,2.96
+KHM,Cambodia,Asia,KHMVC,7.56
+CAN,Canada,Americas,CANTS,5.109999999999999
+CHL,Chile,Americas,CHLMV,14.32
+CHN,China,Asia,CHNCU,4.49
+COL,Colombia,Americas,COLTM,14.32
+CRI,Costa Rica,Americas,CRITC,14.32
+HRV,Croatia,Europe,HRVT2,2.75
+CYP,Cyprus,Asia,CYPSC,2.34
+CZE,Czechia,Europe,CZEET,3.16
+DNK,Denmark,Europe,DNKDM,2.65
+DOM,Dominican Republic,Americas,DOM01,10.23
+ECU,Ecuador,Americas,ECUOT,14.32
+EGY,Egypt,Africa,EGYEM,18.110000000000003
+EST,Estonia,Europe,ESTEM,2.85
+FIN,Finland,Europe,FINTF,2.85
+FRA,France,Europe,FRAFM,2.44
+FRA,French Guiana,Americas,FRAF1,3.7699999999999996
+GEO,Georgia,Europe,GEOMT,3.16
+DEU,Germany,Europe,DEUE2,3.0599999999999996
+GHA,Ghana,Africa,GHAGT,5.819999999999999
+GRC,Greece,Europe,GRCSH,2.44
+FRA,Guadeloupe,,FRAF1,3.7699999999999996
+GTM,Guatemala,Americas,GTMCM,14.32
+HND,Honduras,Americas,HNDME,14.32
+HKG,Hong Kong,Asia,HKGNW,3.4699999999999998
+HUN,Hungary,Europe,HUNH2,3.37
+IND,India,Asia,INDF1,5.819999999999999
+IDN,Indonesia,Asia,IDNTS,3.26
+IRL,Ireland,Europe,IRLME,2.75
+ISR,Israel,Asia,ISRPL,2.65
+ITA,Italy,Europe,ITAWI,3.0599999999999996
+JPN,Japan,Asia,JPNKI,5.109999999999999
+GBR,Jersey,,GBRJT,4.29
+JOR,Jordan,Asia,JORUM,33.16
+KAZ,Kazakhstan,Asia,KAZKT,3.16
+KEN,Kenya,Africa,KENKC,9.2
+K00,Kosovo,Europe,K0001,10.64
+KWT,Kuwait,Asia,KWTKT,5.31
+LVA,Latvia,Europe,LVABC,2.65
+LTU,Lithuania,Europe,LTUMT,2.65
+MAC,Macao,Asia,MACCT,4.08
+MKD,North Macedonia,Europe,MKDNO,10.74
+MYS,Malaysia,Asia,MYSBC,3.9800000000000004
+MLT,Malta,Europe,MLTGO,2.44
+MEX,Mexico,Americas,MEXTL,14.32
+MDA,Moldova,Europe,MDAVX,5.52
+MCO,Monaco,Europe,MCOM1,13.81
+MNG,Mongolia,Asia,MNGMN,24.970000000000002
+MNE,Montenegro,Europe,MNEMT,3.16
+MAR,Morocco,Africa,MARMT,23.540000000000003
+MMR,Myanmar (Burma),Asia,MMRPT,3.9800000000000004
+NLD,Netherlands,Europe,NLDPT,2.65
+NZL,New Zealand,Oceania,NZLBS,5.31
+NIC,Nicaragua,Americas,NICMS,14.32
+NOR,Norway,Europe,NORTM,2.65
+PAK,Pakistan,Asia,PAKTP,5.31
+PER,Peru,Americas,PERTM,14.32
+PHL,Philippines,Asia,PHLGT,4.49
+POL,Poland,Europe,POLP4,2.44
+PRT,Portugal,Europe,PRTOP,2.34
+USA,Puerto Rico,Americas,USACG,4.49
+ROM,Romania,Europe,ROM05,2.65
+RUS,Russia,Europe,RUSBD,4.08
+SAU,Saudi Arabia,Asia,SAUZN,11.66
+YUG,Serbia,Europe,YUGMT,5.31
+SGP,Singapore,Asia,SGPST,4.49
+SVK,Slovakia,Europe,SVKGT,3.0599999999999996
+SVN,Slovenia,Europe,SVNVG,2.65
+ZAF,South Africa,Africa,ZAFMN,11.15
+KOR,South Korea,Asia,KORSK,6.54
+ESP,Spain,Europe,ESPRT,3.0599999999999996
+LKA,Sri Lanka,Asia,LKA71,9.61
+SWE,Sweden,Europe,SWEEP,2.55
+CHE,Switzerland,Europe,CHEOR,3.16
+TWN,Taiwan,Asia,TWNLD,3.4699999999999998
+TJK,Tajikistan,Asia,TJK91,20.880000000000003
+THA,Thailand,Asia,THAWN,3.9800000000000004
+TUN,Tunisia,Africa,TUNTA,3.88
+TUR,Türkiye,Asia,TURTC,3.16
+UKR,Ukraine,Europe,UKRKS,4.29
+ARE,United Arab Emirates,Asia,ARETC,36.03
+GBR,United Kingdom,Europe,GBRCN,3.0599999999999996
+USA,United States,Americas,USACG,4.49
+URY,Uruguay,Americas,URYTM,14.32
+UZB,Uzbekistan,Asia,UZBDU,3.16
+VNM,Vietnam,Asia,VNMMO,4.59
+ZMB,Zambia,Africa,ZMBCE,31.73
+TZA,Tanzania,Africa,TZACT,10.64
